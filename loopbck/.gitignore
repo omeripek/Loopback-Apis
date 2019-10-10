@@ -62,3 +62,7 @@ typings/
 
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
+
+# The others
+.vscode
+.DS_Store
