@@ -58,7 +58,7 @@
   "devDependencies": {
     "@loopback/build": "^9.0.6",
     "source-map-support": "^0.5.13",
-    "@loopback/testlab": "^1.9.2",
+    "@loopback/testlab": "^5.0.7",
     "@types/node": "^10.14.20",
     "@typescript-eslint/parser": "^2.3.3",
     "@typescript-eslint/eslint-plugin": "^2.3.3",
